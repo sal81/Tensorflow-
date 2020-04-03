@@ -1,2 +1,2 @@
 # Tensorflow-
-excersise of certain coursera Tensorflow courses
+basic Ml models using tensorflow
